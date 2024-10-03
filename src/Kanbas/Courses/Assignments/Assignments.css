@@ -1,0 +1,38 @@
+#wd-search-assignment {
+    width: 100%;
+  }
+  
+  .input-group-text {
+    border-right: 0;
+  }
+  
+  .list-group-item {
+    border: none;
+    padding: 1rem 1.5rem;
+  }
+  
+  .list-group-item .border-start {
+    padding-left: 1.5rem;
+  }
+  
+  #wd-add-assignment-group, #wd-add-assignment {
+    font-size: 0.9rem;
+  }
+  
+  #wd-add-assignment {
+    background-color: #E03A3E; /* Match the red color */
+    color: white;
+  }
+  
+  #wd-add-assignment:hover {
+    background-color: #c53232; /* Darker red on hover */
+  }
+  
+  #wd-add-assignment-group {
+    border-color: #CCC;
+  }
+  
+  #wd-assignments-title {
+    font-size: 1.1rem;
+  }
+  

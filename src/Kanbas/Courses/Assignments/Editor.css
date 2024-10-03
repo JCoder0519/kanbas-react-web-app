@@ -1,0 +1,17 @@
+/* Example custom styles for form alignment and layout */
+.form-control {
+    font-size: 1rem;
+  }
+  
+  textarea.form-control {
+    resize: none;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+  }
+  
